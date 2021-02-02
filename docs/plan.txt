@@ -1,0 +1,19 @@
+Plan for the website:
+- Infinite scroll-based front page w/ links to new pages
+- Main page
+    - talk about yourself
+    - resume download
+    - links to other pages
+    - add socials
+        - linkedin
+        - indeed <???>
+        - instagram
+
+- Previous work page
+    - VR / AR / 3D work
+        - hoover house
+        - train station
+        - bone
+    - Databases project / writeup
+    - LiDAR writeup
+    - 
