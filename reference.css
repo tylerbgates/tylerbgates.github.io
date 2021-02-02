@@ -1,0 +1,15 @@
+body{
+  background-color: lightblue;
+}
+
+title{
+    text-align: center;
+    background-color: red;
+}
+
+
+
+p{
+  text-align: center;
+  font-size: 13px;
+}
